@@ -17,7 +17,7 @@ Host a basic static HTML website on AWS EC2 using Apache server.
 4. Configured Security Groups to allow HTTP traffic.
 
 ## Output
-![Website Screenshot](screenshot.png)
+![Website Screenshot](screenshot.png.png)
 
 ## Author
 - Karthik
